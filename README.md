@@ -93,8 +93,8 @@ REQUIREMENTS
 INSTALLATION
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/NeunixStegEngine.git
-   cd NeunixStegEngine
+   git clone https://github.com/19919rohit/Neunix-StegEngine.git
+   cd Neunix-StegEngine
 
 2. Compile:
    javac StegEngine.java
